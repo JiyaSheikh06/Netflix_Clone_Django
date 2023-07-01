@@ -19,7 +19,7 @@ This project is a Django-based web application designed to emulate key features 
 
 - **Responsive Design for Mobile and Desktop:** The application is designed to be responsive, providing a consistent experience across different devices.
 
-##  $${\color{rgb(0, 0, 128) } Technologies Used }$$
+##  $${\color{rgb(0, 0, 128) } Technologies \space Used }$$
 
 - **Django:** A high-level Python web framework that enables rapid and secure development.
 
@@ -29,7 +29,7 @@ This project is a Django-based web application designed to emulate key features 
 
 - **Tailwind CSS:** A popular CSS framework that helps create a modern and responsive user interface.
 
-##  $${\color{rgb(0, 0, 128) } Getting Started }$$
+##  $${\color{rgb(0, 0, 128) } Getting \space Started }$$
 
 To get started with the Netflix Replica app, follow the steps below:
 
