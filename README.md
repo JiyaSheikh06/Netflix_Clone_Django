@@ -1,4 +1,4 @@
-# $${\color{rgb(0, 0, 128) }  Django Netflix Clone }$$
+# $${\color{rgb(0, 0, 128) }  Django \space Netflix \space Clone }$$
 This project is a Django-based web application designed to emulate key features and functionality found in Netflix. Its primary purpose is to provide users with the ability to explore a wide range of movies, TV shows, and documentaries. Additionally, users can create customized watchlists and enjoy streaming media content directly from the platform.
 
 ## $${\color{rgb(0, 0, 128)} Features }$$
